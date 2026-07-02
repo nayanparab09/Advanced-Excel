@@ -1,2 +1,2 @@
 # Advanced-Excel
-this the basic repository of my first exercise of excel 
+this is the basic repository of my first exercise of excel 
