@@ -8,3 +8,4 @@ In this exercise we learn to explore data sales
 In this exercise we learn to calculate revenue and matrices
 
 ## Exercise 3
+In this exercise we learn to auditing formula and managing name ranges
